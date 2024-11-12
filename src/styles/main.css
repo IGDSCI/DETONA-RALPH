@@ -26,8 +26,16 @@ main{
     border-bottom: 5px solid #ffd700;
 }
 
+.menu-time{
+    text-align: center;
+}
+
 .value-menu{
     margin-top: 10px;
+}
+
+.menu-score{
+    text-align: center;
 }
 
 .menu-lives{
