@@ -1,6 +1,6 @@
 # Imagens do site:
-![image](https://github.com/user-attachments/assets/ea124afc-6ab4-43a7-bc86-5ce208b15e7d)
-
+![image](https://github.com/user-attachments/assets/641b18fd-d09c-4363-84e7-bddcc501da08)
+![image](https://github.com/user-attachments/assets/1104a320-c022-42a7-b055-a54543452c87)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/68ebebb5-1d24-4b4a-a96d-3d0fe676d616" width="400" height="650"/>
